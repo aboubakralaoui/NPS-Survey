@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MONGO_URI": "mongodb+srv://hiring_test:1lGI5CVC06gXdQPW@cluster0.cvte0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    }
+}
